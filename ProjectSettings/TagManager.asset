@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Thorns
+  - Bonus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Thorns
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2090440891
+    locked: 0
+  - name: Middle
+    uniqueID: 1491189257
+    locked: 0
+  - name: Foliage
+    uniqueID: 2403670421
+    locked: 0
+  - name: Items
+    uniqueID: 217771277
+    locked: 0
+  - name: Player
+    uniqueID: 3129215735
+    locked: 0
+  - name: Ground
+    uniqueID: 2651113131
+    locked: 0
+  - name: Canvas
+    uniqueID: 4036699407
+    locked: 0
